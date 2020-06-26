@@ -1,0 +1,34 @@
+body {
+  background-image: url('https://img1.picmix.com/output/stamp/normal/4/8/8/1/841884_2d084.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  animation: fadeIn 1.0s linear;
+  }
+  @keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+  }
+
+
+
+.resultaat{
+
+}
+
+.resultaat p {
+text-align: : left;
+color: black;
+
+}
+
+.tussenranden {
+width:auto;
+height: 1px;
+background-color: white;
+
+}

@@ -1,0 +1,90 @@
+.divi{
+  width:100%;
+  height:50vw;
+  background-color: black;
+
+}
+
+.divi1{
+width:100%;
+height:50vw;
+background-color: black;
+float: left;
+}
+
+.divi2{
+width:100%;
+height:20vw;
+background-color: black;
+float: left;
+}
+
+.divisounds{
+width: 28%;
+float:left;
+}
+
+.blokken{
+float:left;
+width: 60%;
+margin-top: 3%;
+margin-left: 10%;
+
+}
+
+.divitussen{
+  width:100%;
+
+
+}
+
+.pieken{
+
+  width:100%;
+  float: left;
+}
+
+.dimitrovisch{
+  width:100%;
+  float: left;
+
+
+}
+
+.roodvlak{
+  float:left;
+  height: 80%;
+  width: 25%;
+  margin-top: 3%;
+  margin-left: 5%;
+  background-color: red;
+
+}
+
+.roodvlaktekst{
+  float:left;
+  height: 92%;
+  width:92%;
+  margin-top: 4%;
+  margin-left: 4%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  text-align: center;
+
+}
+.roodvlaktekst p{
+font-family: 'Teko', sans-serif;
+font-size: 28px;
+color: white;
+margin-top: 0PX;
+margin-bottom: 0PX;
+
+}
+.roodvlaktekstkop p{
+  font-family: 'Teko', sans-serif;
+  font-size: 54px;
+  color: white;
+  margin-top: 0PX;
+  margin-bottom: 0PX;
+
+}
